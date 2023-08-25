@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Discussion-Bot/static/css/main.97e2ac89.css",
+    "main.js": "/Discussion-Bot/static/js/main.8bb1210d.js",
+    "static/js/787.6f726199.chunk.js": "/Discussion-Bot/static/js/787.6f726199.chunk.js",
+    "index.html": "/Discussion-Bot/index.html",
+    "main.97e2ac89.css.map": "/Discussion-Bot/static/css/main.97e2ac89.css.map",
+    "main.8bb1210d.js.map": "/Discussion-Bot/static/js/main.8bb1210d.js.map",
+    "787.6f726199.chunk.js.map": "/Discussion-Bot/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97e2ac89.css",
+    "static/js/main.8bb1210d.js"
+  ]
+}
